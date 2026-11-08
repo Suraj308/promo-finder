@@ -13,6 +13,7 @@ git clone https://github.com/Suraj308/promo-finder && cd promo-finder
 python3 run.py path/to/episodes_folder --out out/rules
 
 # 2. Rules + LLM judge (Gemini free tier)
+export GEMINI_API_KEY=...            # from aistudio.google.com
 # Windows PowerShell: $env:GEMINI_API_KEY="..."   (and use python instead of python3)
 python3 run.py path/to/episodes_folder --out out/gemini --provider gemini --scout
 #   --scout: the model also reads every full episode and names hook/cliff beats (recommended)
