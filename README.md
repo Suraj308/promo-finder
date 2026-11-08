@@ -7,13 +7,13 @@ Built for the Kuku AI Generalist assignment (Problem 1). No dependencies beyond 
 ## Run it
 
 ```bash
-git clone <this repo> && cd promo-finder
+git clone https://github.com/Suraj308/promo-finder && cd promo-finder
 
 # 1. Rules only (free, offline, ~5s for 50 episodes)
 python3 run.py path/to/episodes_folder --out out/rules
 
 # 2. Rules + LLM judge (Gemini free tier)
-export GEMINI_API_KEY=...            # from aistudio.google.com
+# Windows PowerShell: $env:GEMINI_API_KEY="..."   (and use python instead of python3)
 python3 run.py path/to/episodes_folder --out out/gemini --provider gemini --scout
 #   --scout: the model also reads every full episode and names hook/cliff beats (recommended)
 #   optional: --model gemini-2.5-flash-lite
