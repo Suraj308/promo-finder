@@ -1,0 +1,162 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A made-up test episode: Mara is accused of theft at her own engagement party by her future mother-in-law, until a stranger at the door claims to know the truth.
+CONTINUITY NOTES: Synthetic sample written for testing the tool. Not from any real show.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. BALLROOM – NIGHT
+Scene start: 00:00.00
+Scene end: 01:10.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a glittering ballroom, guests raising glasses.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:04.00)
+Mara smiles beside her fiancé Leo as the room applauds.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.00)
+Close-up on Mrs. Vale tapping a spoon against her glass.
+
+**MRS. VALE (Cold, Commanding):**
+Start: (00:04.20) | End: (00:06.80)
+"Before we toast, someone here is a thief."
+
+**CAMERA:**
+Start: (00:07.00) | End: (00:10.00)
+Close-up on Mara, her smile freezing.
+
+**MARA (Shocked):**
+Start: (00:07.30) | End: (00:08.60)
+"What?"
+
+**CAMERA:**
+Start: (00:10.00) | End: (00:14.00)
+Medium shot of Mrs. Vale holding up an emerald necklace.
+
+**MRS. VALE (Venomous):**
+Start: (00:10.20) | End: (00:13.80)
+"My mother's emeralds. Found in her handbag."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:17.00)
+Close-up on Leo stepping back from Mara.
+
+**LEO (Hurt, Accusing):**
+Start: (00:14.30) | End: (00:16.60)
+"Mara... tell me this isn't true."
+
+**CAMERA:**
+Start: (00:17.00) | End: (00:21.00)
+Close-up on Mara, tears in her eyes.
+
+**MARA (Desperate):**
+Start: (00:17.20) | End: (00:20.60)
+"I have never touched that necklace! She put it there!"
+
+**CAMERA:**
+Start: (00:21.00) | End: (00:24.00)
+Medium shot of Mrs. Vale stepping close and slapping Mara.
+
+**ACTION:**
+Start: (00:21.50) | End: (00:22.50)
+Mrs. Vale slaps Mara hard across the face.
+
+**SOUND FX:**
+Start: (00:21.80) | End: (00:22.30)
+A sharp slap echoes across the silent ballroom.
+
+**MRS. VALE (Furious):**
+Start: (00:22.60) | End: (00:23.90)
+"How dare you!"
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:28.00)
+Wide shot of the guests whispering.
+
+**MRS. VALE (Cruel):**
+Start: (00:24.30) | End: (00:27.80)
+"Security. Remove her before she steals the silverware."
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:32.00)
+Two guards grab Mara by the arms.
+
+**MARA (Screaming):**
+Start: (00:28.40) | End: (00:30.00)
+"Leo, please!"
+
+**CAMERA:**
+Start: (00:32.00) | End: (00:36.00)
+Close-up on Leo turning his back.
+
+**LEO (Cold):**
+Start: (00:32.20) | End: (00:34.80)
+"The engagement is over."
+
+**CAMERA:**
+Start: (00:36.00) | End: (00:40.00)
+The ballroom doors swing open. A tall man in a dark coat stands in the doorway.
+
+**SOUND FX:**
+Start: (00:36.00) | End: (00:37.50)
+Heavy doors bang open.
+
+**STRANGER (Low, Dangerous):**
+Start: (00:37.80) | End: (00:40.00)
+"Let her go."
+
+**CAMERA:**
+Start: (00:40.00) | End: (00:44.00)
+Close-up on Mrs. Vale, suddenly pale.
+
+**MRS. VALE (Shaken):**
+Start: (00:40.30) | End: (00:42.00)
+"You... you're supposed to be dead."
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:48.00)
+Close-up on the stranger, holding up a small video camera.
+
+**STRANGER (Menacing):**
+Start: (00:44.20) | End: (00:47.80)
+"And you're supposed to check for cameras before you plant evidence."
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:52.00)
+Close-up on Mara staring at the stranger.
+
+**MARA (Breathless):**
+Start: (00:48.20) | End: (00:50.00)
+"Who are you?"
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:58.00)
+Medium shot of the stranger walking toward Mara, guests parting.
+
+**STRANGER (Quiet):**
+Start: (00:53.00) | End: (00:56.50)
+"Someone who owes your father a very old debt."
+
+**CAMERA:**
+Start: (00:58.00) | End: (01:04.00)
+Close-up on Mrs. Vale gripping the necklace, knuckles white.
+
+**MRS. VALE (Whispering, Threatening):**
+Start: (00:58.50) | End: (01:02.00)
+"If you show that to anyone, she dies."
+
+**SOUND FX:**
+Start: (01:04.00) | End: (01:10.00)
+Ominous low drone builds to a cliffhanger sting.
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:10.00)
+Cut to black.
+
+--- SCRIPT END ---

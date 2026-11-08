@@ -1,0 +1,14 @@
+{
+  "hot_words": {
+    "\\bceo\\b|\\bboard\\b|\\bshares?\\b|\\bcompany\\b|\\bfired?\\b|\\bcontract\\b|\\bbillion": 0.6,
+    "\\bdivorce papers|\\bprenup|\\bcheat(ed|ing)?\\b|\\baffair\\b|\\bmistress": 0.8,
+    "\\bdna\\b|\\bpaternity|\\btwins?\\b|\\bbaby\\b": 0.7
+  },
+  "hot_action": {
+    "phone|photos?|headline|press|cameras? flash|security": 0.5
+  },
+  "hot_tags": {
+    "arrogant": 0.5,
+    "smirking": 0.5
+  }
+}
